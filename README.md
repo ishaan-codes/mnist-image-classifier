@@ -57,13 +57,6 @@ The CNN follows a hierarchical structure:
 
 ---
 
-## Requirements
-- **Python Libraries**:
-  - TensorFlow
-  - NumPy
-
----
-
 ## How to Use this Model
 1. **Install Dependencies**: Install TensorFlow and NumPy via pip.
 2. **Run the Script**: Executing the script automatically downloads the MNIST dataset, trains the model, and reports test accuracy.
